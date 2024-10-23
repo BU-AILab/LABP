@@ -72,6 +72,5 @@ please make sure that Downloaded dataset (Corel-1k or Corel-10k) is placed in ./
 
 
 ### 4. Run the Test Code
-
-## 1. open the test.py in src folder
-## 2. follow the instruction for run codes
+#### 1. open the test.py in src folder
+#### 2. follow the instruction for run codes
