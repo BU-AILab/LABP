@@ -66,4 +66,12 @@ https://drive.google.com/file/d/1XFZvSFNu7W8J8JBSDXZnf3PrWIp-N8mo/view?usp=shari
 
 https://drive.google.com/file/d/1zjbT7LVJ0V4CWgK7vY8buc3rLt8MK1Dh/view?usp=sharing (Corel 10k)
 
+### 3. place downloaded dataset
 
+please make sure that Downloaded dataset (Corel-1k or Corel-10k) is placed in ./src/dataset/ Folder
+
+
+### 4. Run the Test Code
+
+## 1. open the test.py in src folder
+## 2. follow the instruction for run codes
